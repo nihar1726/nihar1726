@@ -52,9 +52,8 @@ I’m a **Computer Science student** with a strong interest in software developm
 
 ## 📫 **How to Reach Me**
 
-* 📧 Email: *(Insert your email here)*
-* 💼 LinkedIn: *(Insert your LinkedIn URL)*
-* 🖤 GitHub: [Your GitHub Profile](#)
+* 📧 Email: pnihar2705@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/nihar-pentapalli-266828277/
 
 
 <!---
