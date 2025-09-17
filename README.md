@@ -7,7 +7,7 @@ I’m a **Computer Science student** with a strong interest in software developm
 
 ## 📖 **About Me**
 
-* 🎓 I’m currently pursuing **Computer Science** in college.
+* 🎓 I’m currently pursuing **Bachelors in Computer Applications** at CHANDIGARH UNIVERISTY.
 * 🧠 I started my programming journey with **C**, then moved on to **C++**, which I now use extensively for **Data Structures and Algorithms (DSA)**.
 * 🌐 I explored **Web Development** with **HTML**, **CSS**, and **JavaScript**, and later added **PHP** to create **full-stack projects**.
 * 📱 My fascination with mobile apps led me to **Android Development** using **Kotlin** and **Android Studio**.
